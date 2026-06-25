@@ -1,3 +1,4 @@
+**Live:** https://expense-tracker-o2mg.onrender.com/docs
 # Expense Tracker API
 
 A small REST API for tracking personal expenses, built with FastAPI and SQLite.
